@@ -1,0 +1,7 @@
+npm install vue-cli -g
+vue init nuxt/starter eisapp2
+cd eisapp2
+    npm install # Or yarn
+    npm run dev
+	
+npm install --save axios	
